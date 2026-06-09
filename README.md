@@ -69,9 +69,9 @@ to reconstruct the project to its current state.
 | `double-pendulum` | Joint constraints, chaotic dynamics |
 
 
-![box-arena](assets/box_arena.gif)
+![box-arena](assets/box-arena.gif)
 
-![double-pendulum](assets/double_pendulum.gif)
+![double-pendulum](assets/double-pendulum.gif)
 
 
 ## Workflow
