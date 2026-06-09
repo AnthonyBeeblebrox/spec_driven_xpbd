@@ -19,12 +19,8 @@ notice, you've built the wrong thing.
 ## The Technique: Maieutic Prompting
 
 *Maieutics* is the Socratic method of drawing out latent ideas through
-questioning. Applied to coding agent-assisted development:
-
-> Interview the user relentlessly until the task is fully determined. Never
-> implement under ambiguity.
-
-This is encoded as a 5th rule in [`CLAUDE.md`](./CLAUDE.md), extending
+questioning. This is encoded as a 5th rule in [`CLAUDE.md`](./CLAUDE.md),
+extending
 [andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)'s
 four-rule structure. The interview pattern itself is inspired by
 [grill-with-docs](https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md)
