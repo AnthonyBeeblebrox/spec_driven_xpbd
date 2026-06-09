@@ -68,7 +68,9 @@ to reconstruct the project to its current state.
 | `box-arena` | Collision detection and resolution between 10 dynamic bodies |
 | `double-pendulum` | Joint constraints, chaotic dynamics |
 
+
 ![box-arena](assets/box_arena.gif)
+
 ![double-pendulum](assets/double_pendulum.gif)
 
 
