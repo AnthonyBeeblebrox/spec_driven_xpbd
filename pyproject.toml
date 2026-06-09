@@ -1,0 +1,33 @@
+[project]
+name = "spec_driven_xpbd"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "anthony"}
+]
+requires-python = ">=3.12"
+dependencies = [
+    "glfw>=2.10.0",
+    "jax>=0.10.1",
+    "pyopengl>=3.1.10",
+    "typer>=0.26.5",
+]
+
+[dependency-groups]
+dev = [
+    "pyright",
+    "pytest",
+    "pytest-cov",
+    "ruff",
+    "python-lsp-server[all]",
+    "pillow>=12.2.0",
+    "grip>=4.6.2",
+]
+
+[project.scripts]
+xpbd = "spec_driven_xpbd:main"
+
+[build-system]
+requires = ["uv_build>=0.11.9,<0.12.0"]
+build-backend = "uv_build"
