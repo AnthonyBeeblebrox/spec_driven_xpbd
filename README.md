@@ -80,7 +80,7 @@ A. Init
 
 B. Per task in the high-level plan
   1. Fresh context, load SPECIFICATIONS.md + relevant docs
-  2. Interview → precise spec for this task
+  2. Interview to get spec + plan for this task
   4. Update SPECIFICATIONS.md
   3. Implement, then test, then human verification
   4. Update SPECIFICATIONS.md
